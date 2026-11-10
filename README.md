@@ -3,38 +3,38 @@
 https://github.com/nicolejrocha/Final-Project-Proposal.git
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+This project will create an engaging game where the player will have to avoid and catch falling objects while having a set amount of lives. 
 
 ## Features
-- Feature 1
-	- Short explaination of how it will be executed.
-- Feature 2
-	- Short explaination of how it will be executed.
-- Feature N 
-	- Short explaination of how it will be executed.
+- Feature 1: Falling Objects
+	- Using a similar program as the falling rain project several objects will fall across the screen randomly. 
+- Feature 2: Characters
+	- Inserting characters and objects that align with a single theme. 
+- Feature 3: Keyboard Commands
+	- The user will be able to use keyboard commands to move characters across. 
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Implementing user keyboard commands.
+- Keeping the falling objects at a reasonable amount.
+- Making objects disappears once the user has captured them.  
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- The ideal outcome is a game that keeps score and is able to move with the users input. 
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- A minimal viable outcome would be the users keyboard input reflecting in the program. 
 
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Setting up the basic falling objects.
+  2. Characters and theme is chosen.
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Keyboard inputs. 
+  2. Scoreboard is created. 
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Implementing characters into the code.
+  2. Character moves with keyboard commands and picks up objects. 
